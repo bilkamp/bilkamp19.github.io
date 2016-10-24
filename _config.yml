@@ -21,11 +21,7 @@ subtitle: "A free HTML5 agency template"
 # root of your server.
 # baseurl: "/" # the subpath of your site
 url: "http://raconf.sausiber.org" # the base hostname & protocol for your site
-<<<<<<< HEAD
 baseurl: "/"
-=======
-baseurl: "/RaConf '16"
->>>>>>> a5f30b5f36b3d482e9494cd13a7adf38d7725058
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
