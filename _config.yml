@@ -22,8 +22,8 @@ subtitle: "A free HTML5 agency template"
 # baseurl: "/" # the subpath of your site
 url: "http://raconf.sausiber.org" # the base hostname & protocol for your site
 baseurl: ""
-cover: "/assets/cover.png"
-logo: "/assets/logo.png"
+cover: "/img/pp.jpg"
+logo: "/img/pp.jpg"
 
 # Build settings
 markdown: kramdown
