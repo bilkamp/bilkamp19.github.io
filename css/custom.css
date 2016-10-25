@@ -1,0 +1,12 @@
+.countdown
+{
+  font-family: 'Bungee Hairline', cursive;
+  color: black;
+}
+
+.countdown-divs
+{
+  text-align: center;
+  float: left;
+  margin-right: 5%;
+}
