@@ -1,12 +1,16 @@
 .countdown
 {
   font-family: 'Racing Sans One', cursive;
-  color: black;
+  color: white;
+}
+
+.cd-cyan-font
+{
+  color:#0aa9cf;
 }
 
 .countdown-divs
 {
   text-align: center;
   float: left;
-  margin-right: 5%;
 }
