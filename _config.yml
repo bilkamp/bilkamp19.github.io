@@ -29,7 +29,7 @@ logo: "/img/pp.jpg"
 markdown: kramdown
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-86185304-1"
 
 # Category descriptions (for archive pages)
 descriptions:
