@@ -35,9 +35,9 @@ function countdown(){
     kalan_gun = kalan_gun + kalan_ay*31;
   }
 
-  document.getElementById("aylar").innerHTML = kalan_ay + "a";
-  document.getElementById("gunler").innerHTML = kalan_gun + "g";
-  document.getElementById("saatler").innerHTML = kalan_saat + "s";
-  document.getElementById("dakikalar").innerHTML = kalan_dakika+ "dk";
-  document.getElementById("saniyeler").innerHTML = kalan_saniye + "sn";
+  document.getElementById("aylar").innerHTML = kalan_ay;
+  document.getElementById("gunler").innerHTML = kalan_gun;
+  document.getElementById("saatler").innerHTML = kalan_saat;
+  document.getElementById("dakikalar").innerHTML = kalan_dakika;
+  document.getElementById("saniyeler").innerHTML = kalan_saniye;
 };
