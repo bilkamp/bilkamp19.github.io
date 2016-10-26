@@ -1,7 +1,8 @@
 $(document).ready(function(){
 
 
-	$("#portfolio-contant-active").mixItUp();
+	$("#Platin Sponsor").mixItUp();
+	$("#Altın Sponsor").mixItUp();
 
 
 	$("#testimonial-slider").owlCarousel({
