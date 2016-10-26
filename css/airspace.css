@@ -467,6 +467,7 @@ font header .navbar-default .navbar-nav li a:hover {
   transition: all 0.4s ease-in-out;
 }
 #portfolio-work .block .portfolio-contant ul li {
+  text-align:center;
   float: left;
   width: 32.22%;
   overflow: hidden;
@@ -474,7 +475,7 @@ font header .navbar-default .navbar-nav li a:hover {
   position: relative;
 }
 #portfolio-work .block .portfolio-contant ul li:hover .overly {
-  opacity: 0.2;
+  opacity: 0.5;
 }
 #portfolio-work .block .portfolio-contant ul li:hover .position-center {
   position: absolute;
@@ -511,7 +512,7 @@ font header .navbar-default .navbar-nav li a:hover {
   bottom: 0;
   right: 0;
   left: 0;
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.5);
   opacity: 0;
   -webkit-transition: .3s all;
   -o-transition: .3s all;
