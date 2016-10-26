@@ -1,8 +1,8 @@
 $(document).ready(function(){
 
 
-	$("#portfolio-platin-active").mixItUp();
-	$("#portfolio-altin-active").mixItUp();
+	$("#portfolio-contant-active").mixItUp();
+	
 	 
 	
 
