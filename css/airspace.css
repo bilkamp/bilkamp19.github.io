@@ -466,17 +466,17 @@ font header .navbar-default .navbar-nav li a:hover {
   -ms-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
-#portfolio-work .block .portfolio-platin ul li {
+#portfolio-work .block .portfolio-contact ul li {
   float: center;
   width: 32.22%;
   overflow: hidden;
   margin: 6px;
   position: relative;
 }
-#portfolio-work .block .portfolio-platin ul li:hover .overly {
+#portfolio-work .block .portfolio-contact ul li:hover .overly {
   opacity: 1;
 }
-#portfolio-work .block .portfolio-platin ul li:hover .position-center {
+#portfolio-work .block .portfolio-contact ul li:hover .position-center {
   position: absolute;
   top: 50%;
   -webkit-transform: translate(0%, -50%);
@@ -484,28 +484,28 @@ font header .navbar-default .navbar-nav li a:hover {
   -ms-transform: translate(0%, -50%);
   transform: translate(0%, -50%);
 }
-#portfolio-work .block .portfolio-platin ul li a {
+#portfolio-work .block .portfolio-contact ul li a {
   display: block;
   color: #fff;
 }
-#portfolio-work .block .portfolio-platin ul li a h2 {
+#portfolio-work .block .portfolio-contact ul li a h2 {
   font-size: 22px;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
-#portfolio-work .block .portfolio-platin ul li a p {
+#portfolio-work .block .portfolio-contact ul li a p {
   font-size: 15px;
 }
-#portfolio-work .block .portfolio-platin ul li a span {
+#portfolio-work .block .portfolio-contact ul li a span {
   font-style: italic;
   font-size: 13px;
   color: #655E7A;
 }
-#portfolio-work .block .portfolio-platin ul img {
+#portfolio-work .block .portfolio-contact ul img {
   width: 100%;
   height: auto;
 }
-#portfolio-work .block .portfolio-platin .overly {
+#portfolio-work .block .portfolio-contact .overly {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -518,7 +518,7 @@ font header .navbar-default .navbar-nav li a:hover {
   transition: .3s all;
   text-align: center;
 }
-#portfolio-work .block .portfolio-platin .position-center {
+#portfolio-work .block .portfolio-contact .position-center {
   position: absolute;
   top: 50%;
   left: 10%;
@@ -530,70 +530,7 @@ font header .navbar-default .navbar-nav li a:hover {
   -o-transition: .5s all;
   transition: .5s all;
 }
-#portfolio-work .block .portfolio-altin ul li {
-  float: center;
-  width: 32.22%;
-  overflow: hidden;
-  margin: 6px;
-  position: relative;
-}
-#portfolio-work .block .portfolio-altin ul li:hover .overly {
-  opacity: 1;
-}
-#portfolio-work .block .portfolio-altin ul li:hover .position-center {
-  position: absolute;
-  top: 50%;
-  -webkit-transform: translate(0%, -50%);
-  -moz-transform: translate(0%, -50%);
-  -ms-transform: translate(0%, -50%);
-  transform: translate(0%, -50%);
-}
-#portfolio-work .block .portfolio-altin ul li a {
-  display: block;
-  color: #fff;
-}
-#portfolio-work .block .portfolio-altin ul li a h2 {
-  font-size: 22px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-#portfolio-work .block .portfolio-altin ul li a p {
-  font-size: 15px;
-}
-#portfolio-work .block .portfolio-altin ul li a span {
-  font-style: italic;
-  font-size: 13px;
-  color: #655E7A;
-}
-#portfolio-work .block .portfolio-altin ul img {
-  width: 100%;
-  height: auto;
-}
-#portfolio-work .block .portfolio-altin .overly {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  left: 0;
-  background: rgba(0, 0, 0, 0.9);
-  opacity: 0;
-  -webkit-transition: .3s all;
-  -o-transition: .3s all;
-  transition: .3s all;
-  text-align: center;
-}
-#portfolio-work .block .portfolio-altin .position-center {
-  position: absolute;
-  top: 50%;
-  left: 10%;
-  -webkit-transform: translate(0%, 50%);
-  -moz-transform: translate(0%, 50%);
-  -ms-transform: translate(0%, 50%);
-  transform: translate(0%, 50%);
-  -webkit-transition: .5s all;
-  -o-transition: .5s all;
-  transition: .5s all;
-}
+
 #portfolio-work .block .mix {
   display: none;
 }
