@@ -254,12 +254,16 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #feature h2 {
   color: #90dd00;
+  font-family: 'Volkhov', serif;
+  text-transform: uppercase;
   font-size: 28px;
   font-weight: 600;
   margin-bottom: 30px;
 }
 #feature p {
   color: #fff4d8;
+  font-family: 'Volkhov', serif;
+  font-style: italic;
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
