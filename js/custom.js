@@ -32,7 +32,7 @@ function countdown(){
   if(kalan_gun < 0)
   {
     kalan_ay -= 1;
-    kalan_gun = kalan_gun + 31;
+    kalan_gun = kalan_gun + 30;
   }
 
   document.getElementById("aylar").innerHTML = kalan_ay;
