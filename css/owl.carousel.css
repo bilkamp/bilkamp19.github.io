@@ -39,7 +39,9 @@
 	
 .owl-carousel .owl-item{
 	float: left;
-	margin-left:80px;
+}
+.owl-carousel1 .owl-item{
+	float: left;
 }
 .owl-carousel .owl-item1{
 	float: left;
