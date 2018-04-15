@@ -1,7 +1,7 @@
 function countdown(){
-  var gun = 10;
-  var ay = 12;
-  var saat = 10;
+  var gun = 28;
+  var ay = 04;
+  var saat = 11;
   var dakika = 0;
   var saniye = 0;
   var current = new Date();
