@@ -14,13 +14,13 @@ keep_files:
 
 
 # Site settings
-title: RaConf'16
-subtitle: "RaConf 16"
+title: BİL'Kamp
+subtitle: "BİL'Kamp"
 # Base URL of site. It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "/" # the subpath of your site
-url: "http://raconf.sausiber.org" # the base hostname & protocol for your site
+url: "http://bilkamp.com" # the base hostname & protocol for your site
 baseurl: ""
 cover: "/img/pp.jpg"
 logo: "/img/pp.jpg"
