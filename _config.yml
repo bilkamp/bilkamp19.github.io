@@ -20,7 +20,7 @@ subtitle: "BİL'Kamp"
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "/" # the subpath of your site
-url: "http://bilkamp.com" # the base hostname & protocol for your site
+url: "http://bilkamp19.com" # the base hostname & protocol for your site
 baseurl: ""
 cover: "/img/pp.jpg"
 logo: "/img/pp.jpg"
