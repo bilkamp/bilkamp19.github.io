@@ -1,5 +1,5 @@
 function countdown(){
-  var gun = 27;
+  var gun = 25;
   var ay = 04;
   var saat = 11;
   var dakika = 0;
