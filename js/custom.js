@@ -35,7 +35,7 @@ function countdown(){
     kalan_gun = kalan_gun + 30;
   }
 
-  document.getElementById("aylar").innerHTML = kalan_ay;
+  document.getElementById("aylar").innerHTML = kalan_ay+12;
   document.getElementById("gunler").innerHTML = kalan_gun;
   document.getElementById("saatler").innerHTML = kalan_saat;
   document.getElementById("dakikalar").innerHTML = kalan_dakika;
